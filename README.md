@@ -1,4 +1,4 @@
-# Holey Moley 3D
+# Holey Moley 3D Game
 
 A hole.io-style browser game I built in a Cowork session with Claude. You steer a hole around a colorful arena, swallow anything smaller than you, grow with every bite, and race a three-minute clock to eat the level's target items. The whole game is one HTML file with no build step.
 
